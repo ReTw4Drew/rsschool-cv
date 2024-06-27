@@ -1,2 +1,1 @@
-# rsschool-cv
-Task for JS/FE Pre-School 2024Q2
+https://ReTw4Drew.github.io/rsschool-cv/cv
